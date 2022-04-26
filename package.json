@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdwerz83/employee-stalker/issues"
   },
-  "homepage": "https://github.com/jdwerz83/employee-stalker#readme"
+  "homepage": "https://github.com/jdwerz83/employee-stalker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
